@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AHT10-Module
+D AHT10 Humidity and Temperature Module
+K aht10, module
+$ENDCMP
+#
+#End Doc Library
